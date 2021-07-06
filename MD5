@@ -1,0 +1,14 @@
+882d5c91be15ac2f1977b9fafe702df5 *DESCRIPTION
+f6d495cf89af247d7225c620156518fc *LICENSE
+9a980a6c58fac991fa4d0ea0cd3371da *NAMESPACE
+5a43ffcc6e0964e733cb1eaaf427b3db *NEWS.md
+9f3776079a6a623e160aea145b3a09ce *R/bagged.outliertrees.R
+bdefe0bfd8d9f644ea37259b77b99a6e *R/data.R
+ff8f0b76a6ab0f627b5d805c06a42a10 *R/predict.bagged.outliertrees.R
+f59768ca8c931b7fa0ec3f51bd477432 *R/print.bagged.outlieroutputs.R
+747d2a6e1a1b71ac3cbcae112787a975 *README.md
+82ad719b02bf7f62e1481cf07f9042e3 *data/hypothyroid.rda
+e98d91924a1929ea987b74f0a3cc04a3 *man/bagged.outliertrees.Rd
+96ec3829427ff050149f5cf1f5899852 *man/hypothyroid.Rd
+d34a2d4d7f23563f341a954ca7c5bc7f *man/predict.bagged.outliertrees.Rd
+a793b0f55f0d2ed4394ad0e4bd2829a9 *man/print.bagged.outlieroutputs.Rd
